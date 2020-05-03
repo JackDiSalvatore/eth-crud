@@ -16,7 +16,6 @@ Run `truffle develop`
 
 In the truffle develop console run
 `migrate --reset --network ropsten`# eth-crud
-# eth-crud
 
 3) Start webapp
 ```bash
